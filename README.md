@@ -42,11 +42,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaybisht-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaybisht-dev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybisht-dev&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybisht-dev&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: ajaybishtofficial@gmail.com
-- 💼 LinkedIn: your-linkedin-link
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-react/
 
 ---
 
