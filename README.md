@@ -14,7 +14,7 @@ I build AI-powered mobile apps and backend systems using LLMs, FastAPI, and Reac
 ## 🧠 Tech Stack
 - React Native
 - FastAPI
-- MongoDB
+- Postgresql
 - Python
 - AI / LLM
 
