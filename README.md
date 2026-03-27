@@ -47,6 +47,18 @@
 
 ---
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaybisht-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajaybisht-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 - 📧 Email: ajaybishtofficial@gmail.com
