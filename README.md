@@ -61,7 +61,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com
+- 📧 Email: ajaybishtofficial@gmail.com
 - 💼 LinkedIn: your-linkedin-link
 
 ---
