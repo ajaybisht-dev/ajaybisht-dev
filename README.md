@@ -50,10 +50,15 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaybisht-dev&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaybisht-dev&theme=github_dark&utcOffset=5.5" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaybisht-dev&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajaybisht-dev&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaybisht-dev&theme=github_dark&utcOffset=5.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaybisht-dev&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaybisht-dev&theme=github_dark)
 
 ---
 
