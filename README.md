@@ -26,24 +26,25 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
 ### ⚙️ Tools & Technologies
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ---
 
 ## 🔥 Current Focus
 
-- 🤖 AI-powered food app (MagicMeal, Dieu Cars)
-- 🧠 LLM integration (chatbots, recommendations)
-- ⚙️ FastAPI backend systems
-- 🚀 DevOps pipelines (CI/CD + Docker + Kubernetes)
+- 🤖 Building AI-powered applications (MagicMeal, Dieu Cars)
+- 🧠 Working on LLM integrations (chatbots, recommendations)
+- ⚙️ Developing scalable backend systems using FastAPI
+- 🚀 Exploring DevOps practices (CI/CD, Docker, Kubernetes)
 
 ---
 
 ## ⚡ What I Build
 
-- AI-powered mobile apps 📱
+- AI-powered web & mobile apps 📱
 - Scalable backend systems ⚙️
 - Smart automation tools 🤖
 
