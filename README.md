@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 💻 React Native Developer
-- 🤖 Building AI-powered apps using LLMs (Ollama)
+- 🤖 Building AI-powered apps using LLMs
 - ⚙️ Learning DevOps (Docker, CI/CD, Azure)
 - 🔥 Focused on real-world production apps
 
@@ -35,7 +35,7 @@
 - 🤖 AI-powered food app (MagicMeal)
 - 🧠 LLM integration (chatbots, recommendations)
 - ⚙️ FastAPI backend systems
-- 🚀 DevOps pipelines (CI/CD + Docker)
+- 🚀 DevOps pipelines (CI/CD + Docker + Kubernetes)
 
 ---
 
