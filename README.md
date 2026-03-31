@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 💻 React Native Developer
+- 💻 React Developer
 - 🤖 Building AI-powered apps using LLMs
 - ⚙️ Learning DevOps (Docker, CI/CD, Azure)
 - 🔥 Focused on real-world production apps
@@ -20,6 +20,8 @@
 
 ### 👨‍💻 Languages & Frameworks
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
@@ -32,7 +34,7 @@
 
 ## 🔥 Current Focus
 
-- 🤖 AI-powered food app (MagicMeal)
+- 🤖 AI-powered food app (MagicMeal, Dieu Cars)
 - 🧠 LLM integration (chatbots, recommendations)
 - ⚙️ FastAPI backend systems
 - 🚀 DevOps pipelines (CI/CD + Docker + Kubernetes)
